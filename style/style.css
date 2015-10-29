@@ -1,0 +1,28 @@
+﻿h1{
+	color: grey;
+}
+.square{
+	float:left;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	width: 10px;
+	height: 10px;
+    margin: 0;
+   
+}
+.dead{
+	background-color: grey;
+}
+.alive {
+    background-color: green;
+}
+#lifegrid{
+	overflow:auto;
+     min-width: 1250px;
+     max-width: 1250px;
+}
+.control{
+    margin: 5px;
+    float: left;
+}

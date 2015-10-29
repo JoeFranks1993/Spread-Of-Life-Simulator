@@ -1,0 +1,5 @@
+C:\Users\joe\AppData\Local\Temporary Projects\HTML5 Client2\bin\HTML5 Client2.dll
+C:\Users\joe\AppData\Local\Temporary Projects\HTML5 Client2\bin\HTML5 Client2.pdb
+C:\Users\joe\AppData\Local\Temporary Projects\HTML5 Client2\obj\Debug\HTML5 Client2.csprojResolveAssemblyReference.cache
+C:\Users\joe\AppData\Local\Temporary Projects\HTML5 Client2\obj\Debug\HTML5 Client2.dll
+C:\Users\joe\AppData\Local\Temporary Projects\HTML5 Client2\obj\Debug\HTML5 Client2.pdb

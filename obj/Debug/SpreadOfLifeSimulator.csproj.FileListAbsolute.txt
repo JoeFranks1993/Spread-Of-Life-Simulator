@@ -1,0 +1,5 @@
+C:\Users\joe\Projects\SpreadOfLifeSimulator\SpreadOfLifeSimulator\bin\SpreadOfLifeSimulator.dll
+C:\Users\joe\Projects\SpreadOfLifeSimulator\SpreadOfLifeSimulator\bin\SpreadOfLifeSimulator.pdb
+C:\Users\joe\Projects\SpreadOfLifeSimulator\SpreadOfLifeSimulator\obj\Debug\SpreadOfLifeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\joe\Projects\SpreadOfLifeSimulator\SpreadOfLifeSimulator\obj\Debug\SpreadOfLifeSimulator.dll
+C:\Users\joe\Projects\SpreadOfLifeSimulator\SpreadOfLifeSimulator\obj\Debug\SpreadOfLifeSimulator.pdb
