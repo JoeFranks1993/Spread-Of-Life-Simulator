@@ -82,14 +82,13 @@ function getliveNeighbors(target) {
 }
 
 function checkChangeEligability() {
-    if (squarecounter > squares.length){squarecounter = 0}
+    if (squarecounter > squares.length) { squarecounter = 0 }
     var liveNeighbors = getliveNeighbors(squarecounter)
-    if (squares[squarecounter].status = "dead") {
-        if (liveNeighbors > 2) {
-            squares[squarecounter].changestate()
-        }
+    if (liveNeighbors > 2) {
+
+        squares[squarecounter].changestate()
     }
-    if (squares[squarecounter].status = "alive") {
+    if (squares[squarecounter].status == "alive") {
         if (liveNeighbors == squares[squarecounter].neighbors.length) {
             squares[squarecounter].changestate()
         }
@@ -99,6 +98,7 @@ function checkChangeEligability() {
     }
     squarecounter = Math.floor((Math.random() * squares.length - 1) + 1);
 }
+
 
 
 function RunSimulation() {
