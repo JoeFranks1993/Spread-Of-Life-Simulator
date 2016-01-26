@@ -9,6 +9,14 @@
 
 <body>
 <h1>Spread Of Life Simulation</h1>
+    
+    <p>This is my attempt at duplicating an experiment done in Steven Hawking's "The Meaning Of life.</p>
+<p>Everything works as I intended it however after completing this i found that JavaScript is only given one thread to use on the processor. This is why i changed to checking each square randomly as opposed to checking them all at the same time and changing them. A major difference but the programmatic point is met.</p> 
+    <a href="https://www.youtube.com/watch?v=CgOcEZinQ2I">Here is the original experiment</a>
+    <p>When called upon, each square checks its neighbor’s state. A green square is alive, a grey square is dead. If a living square has 3 or more live neighbors it dies of over population.
+    If a dead square is surrounded by more than 2 live neighbor’s life spreads to it and it becomes alive. if a living square has no living neighbors it dies of under population.
+</p>
+    
     <button class="control" id="setbaselife" type="button">Set Base Life</button>
     <button class="control" id="start" type="button">Run</button>
     <button class="control" id="clear" type="button">Clear</button>
